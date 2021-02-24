@@ -8,9 +8,12 @@ Research of Tiktok algorithms including x-gorgon, xlog, ttencryption/applog, etc
 * v0408
 * v0802
 
-## Xlog 
+## Xlog
+* encryption and decryption
+* paramter calculation
 
 ## ttencrption/applog
+* 
 
 ## API research
 * device register
