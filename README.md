@@ -1,18 +1,18 @@
 # xgorgon-xlog-applog
 Research of Tiktok algorithms including x-gorgon, xlog, ttencryption/applog, etc.
 
-##X-Gorgon versions available:
+## X-Gorgon versions available:
 *v0306
 *v0401
 *v0404
 *v0408
 *v0802
 
-##Xlog 
+## Xlog 
 
-##ttencrption/applog
+## ttencrption/applog
 
-##API research
+## API research
 * device register
 * device activation
 
