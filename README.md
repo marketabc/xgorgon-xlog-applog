@@ -19,6 +19,7 @@ Research of Tiktok algorithms including x-gorgon, xlog, ttencryption/applog, etc
 ## API research
 * device register
 * device activation
+* more 
 
 
 Contact me for details or customization.
