@@ -10,7 +10,7 @@ Research of Tiktok algorithms including x-gorgon, xlog, ttencryption/applog, etc
 
 ## Xlog
 * encryption and decryption
-* paramter calculation
+* parameter calculation
 
 ## ttencrption/applog
 * 
@@ -22,7 +22,7 @@ Research of Tiktok algorithms including x-gorgon, xlog, ttencryption/applog, etc
 * more 
 
 
-Contact me for details or customization.
+Contact me for details.
 
 Telegram: https://t.me/marketabc
 
